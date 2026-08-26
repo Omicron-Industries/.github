@@ -45,7 +45,7 @@ disrespectful to approach this boundary with low-effort, unqualified
 work, since it puts the burden of validation on the maintainer.
 
 ## Why this policy exists
-At its core, this is purely a harm reduction policy; it is practically
+At its core, this is **purely a harm reduction policy**; it is practically
 impossible to ban AI usage entirely, for the simple reason that some people
 will simply lie about it and try to hide it. So, having an explicit policy
 for regulation and transparency is the next best option we have.
