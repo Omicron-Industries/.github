@@ -1,6 +1,6 @@
 # Welcome to Omicron Industries
 We are an open-source modding team and community standing for human-made art, mods and modpacks.
-Our projects include Monifactory, Phoenix Utilities Suite, and more!
+Our projects include Monifactory, Oktawia's AE2 addons, and more!
 
 # AI Usage Policy
 This organization and all projects within have **strict rules for AI usage**.
