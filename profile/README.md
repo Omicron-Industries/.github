@@ -1,6 +1,36 @@
 # Welcome to Omicron Industries
 We are an open-source modding team and community standing for human-made art, mods and modpacks.
-Our projects include Monifactory, Oktawia's AE2 addons, and more!
+You can see a list of our projects below.
+
+## Our modpacks
+
+### Monifactory ( [github](https://github.com/Omicron-Industries/Monifactory) | [curseforge](https://www.curseforge.com/minecraft/modpacks/monifactory) )
+A Modern Gregtech pack meant to make Gregtech approachable and fun!
+Also includes our core mod **Monilabs ( [github](https://github.com/Omicron-Industries/MoniLabs) | [curseforge](https://www.curseforge.com/minecraft/mc-mods/monilabs) )** which allows us to implement machines with more complex behavior and integrate mods better.
+
+### ...and hopefully more to come!
+
+## Our mods
+
+### Crazy AE2 Addons ( [github](https://github.com/Omicron-Industries/CrazyAE2Addons) | [curseforge](https://www.curseforge.com/minecraft/mc-mods/crazy-ae2-addons) )
+An AE2 addon adding multiple AE2 QoL features such as a very large pattern provider, multi level emitters, and more.
+
+### ExtendedCrating: Expanded ( [github](https://github.com/Omicron-Industries/ExtendedCrafting) | [curseforge](https://www.curseforge.com/minecraft/mc-mods/extended-crafting-expanded) )
+*Because 9x9 was clearly not enough.* A fork of ExtendedCrafting adding an even larger, 11x11 table, and making auto tables much faster with configurable speed.
+
+### Gregtech Modern Utilities ( [github](https://github.com/Omicron-Industries/GregTech-Modern-Utilities) | [curseforge](https://www.curseforge.com/minecraft/mc-mods/gregtech-modern-utilities) )
+A GregTech Modern addon, adding some nice quality-of-life feature, such as a Sterile Cleaning Maintenance Hatch, a Wireless Active Transformer multiblock system, or the Omnibreaker.
+
+### Modern AE2 Additions ( [github](https://github.com/Omicron-Industries/MAE2) | [curseforge](https://www.curseforge.com/minecraft/mc-mods/modern-ae2-additions) )
+A small AE2 addon adding a few useful features, such as a Pattern P2P, multi input P2Ps and the Faulty Memory Card.
+
+### Omnibreaker ( [github](https://github.com/NegaNote/Omnibreaker/) | [curseforge](https://www.curseforge.com/minecraft/mc-mods/omni-breaker) )
+A standalone, FE-powered version of the Gregtech Modern Utilities Omnibreaker.
+
+### Spatial Tools Compatible ( [github](https://github.com/Omicron-Industries/SpatialToolsCompatible) | [curseforge](https://www.curseforge.com/minecraft/mc-mods/spatial-tools-compatible) )
+A standalone structure tools mod for copying, cutting, previewing, transforming, and pasting complex builds, with built-in support for AE2, GTCEu, Mekanism, and FramedBlocks.
+
+### ...and anything else our team develops in the future!
 
 # AI Usage Policy
 This organization and all projects within have **strict rules for AI usage**.
