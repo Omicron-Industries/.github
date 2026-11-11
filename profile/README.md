@@ -34,13 +34,13 @@ A standalone structure tools mod for copying, cutting, previewing, transforming,
 
 # AI Usage Policy
 This organization and all projects within have **strict rules for AI usage**.  
-<sub>*Last updated: November 12th 2026*</sub>  
+<sub>*Last updated: November 11th 2026*</sub>  
 
 ## Rules
 ### For Omicron Industries members:
 - **Omicron Industries members are prohibited from using AI assistance entirely.**
 AI usage is against our values, and we should lead by example.  
-<sub>*This rule is effective as of its writing on November 12th, 2026.*</sub>
+<sub>*This rule is effective as of its writing on November 11th, 2026.*</sub>
 
 ### For external contributors:
 - **If you don't need it, don't use it.** While AI assistance is allowed under
