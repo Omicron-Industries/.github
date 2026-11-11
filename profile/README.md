@@ -33,9 +33,18 @@ A standalone structure tools mod for copying, cutting, previewing, transforming,
 ### ...and anything else our team develops in the future!
 
 # AI Usage Policy
-This organization and all projects within have **strict rules for AI usage**.
+This organization and all projects within have **strict rules for AI usage**.  
+<sub>*Last updated: November 12th 2026*</sub>  
 
 ## Rules
+### For Omicron Industries members:
+- **Omicron Industries members are prohibited from using AI assistance entirely.**
+AI usage is against our values, and we should lead by example.  
+<sub>*This rule is effective as of its writing on November 12th, 2026.*</sub>
+
+### For external contributors:
+- **If you don't need it, don't use it.** While AI assistance is allowed under
+specifc circumstances, we would still like to keep it to a minimum. 
 - **All AI usage in any form must be disclosed.** You must state
 the tool you used (e.g. Claude Code, Cursor, Amp) along with
 the extent that the work was AI-assisted.
@@ -60,24 +69,25 @@ We love to help junior developers learn and grow, but if you're interested
 in that, don't use AI and we'll help you. Proper use of AI tools requires a
 certain level of skill and experience, and developing those skills is
 easier and healthier by keeping AI out of the equation.
-- **If you don't need it, don't use it.** While AI assistance is allowed,
-we would still like to keep it to a minimum. 
 
 ## Omicron Industries is a human-driven organization
 Please remember that all Omicron Industries projects
 are **developed and maintained by humans**.
 
 Every discussion, issue, and pull request is read and reviewed by
-humans (and sometimes machines, too). It is a boundary point at which
-people interact with each other and the work done. It is rude and
-disrespectful to approach this boundary with low-effort, unqualified
-work, since it puts the burden of validation on the maintainer.
+humans (with the occasional help of human-written tests). It is a
+boundary point at which people interact with each other and the work done.
+It is rude and disrespectful to approach this boundary with low-effort,
+unqualified work, since it puts the burden of validation on the maintainer.
 
 ## Why this policy exists
 At its core, this is **purely a harm reduction policy**; it is practically
 impossible to ban AI usage entirely, for the simple reason that some people
-will simply lie about it and try to hide it. So, having an explicit policy
-for regulation and transparency is the next best option we have.
+will simply lie about it and try to hide it. So, having an **explicit policy
+for regulation and transparency** is the next best option we have.  
+<sub>Since **members of our organization are trusted contributors** and we can count
+on their honesty, we are able to enforce among ourselves the blanket ban we wish
+was possible to apply to everyone else.</sub>
 
 Still, in the end, **the best AI use is no AI use**. This applies especially to
 less experienced contributors, since proper use of AI assistance requires a certain
